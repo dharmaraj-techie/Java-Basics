@@ -3,3 +3,4 @@
 /OuterClass.class
 /InnerClass$OuterClass.class
 /OuterClass$InnerClass.class
+/OuterClass$InnerStaticClass.class
